@@ -35,6 +35,6 @@ else:
 mi_numero = int (input("¿Cual es el numero que deseas verificar?:"))
 print(f"El numero que deseas verificar es{mi_numero}")
 if mi_numero % 2 == 0:
-   print(f"El numero {mi_numero} es par")
+   print(f"El numero {mi_numero} es par!!")
 else:
-   print(f"El numero {mi_numero} es impar")
+   print(f"El numero {mi_numero} es impar!!")
